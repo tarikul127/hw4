@@ -1,0 +1,43 @@
+.head1{
+	color:red;
+}
+
+#fristname{
+	background-color:red;
+}
+*
+{
+	background-color:green;
+}
+p{
+	background-color:red;
+}
+p.county{
+	font-size: 50px;
+}
+h2,p{
+	color:yellow;
+}
+div p{
+	color:blue;
+}
+div > p{
+	front-size:80px;
+}
+p ~ ul{
+	background-color:red;
+
+}
+a[target]{
+	backgroung-color:blue;
+}
+a[target="blank"]{
+	font-size:50px;
+}
+div[class^="text"]{
+	font-size:100px
+		}
+		a:active {
+  background-color: yellow;
+
+}
